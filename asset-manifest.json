@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spotify-calendar/static/css/main.ff02f4b5.css",
+    "main.js": "/spotify-calendar/static/js/main.cd42b4bb.js",
+    "static/js/453.690ccfca.chunk.js": "/spotify-calendar/static/js/453.690ccfca.chunk.js",
+    "index.html": "/spotify-calendar/index.html",
+    "main.ff02f4b5.css.map": "/spotify-calendar/static/css/main.ff02f4b5.css.map",
+    "main.cd42b4bb.js.map": "/spotify-calendar/static/js/main.cd42b4bb.js.map",
+    "453.690ccfca.chunk.js.map": "/spotify-calendar/static/js/453.690ccfca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.cd42b4bb.js"
+  ]
+}
